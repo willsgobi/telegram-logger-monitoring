@@ -1,6 +1,6 @@
 {
   "name": "telegram-logger-monitoring",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package aims to simplify the capture of errors, warnings and informations by sending directly to your Telegram",
   "main": "./dist/main.js",
   "module": "./dist/main.mjs",
